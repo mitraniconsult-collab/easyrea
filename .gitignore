@@ -1,0 +1,13 @@
+# ТАЙНИ — никога в git
+config.json
+
+# Отчети и логове
+*.csv
+*.xlsx
+*.txt
+logs/
+fiche_*.json
+
+# Python
+__pycache__/
+*.pyc
